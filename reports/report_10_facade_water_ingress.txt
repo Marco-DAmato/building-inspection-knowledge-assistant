@@ -1,0 +1,6 @@
+Inspection Report: Office Facade - Water Ingress
+Location: Curtain wall facade
+Observation: Water leakage around window frames during heavy rain.
+Possible causes: Failed sealant, poor installation, blocked drainage channels.
+Risk level: Medium
+Recommended action: Inspect seals, test facade drainage, repair affected joints.

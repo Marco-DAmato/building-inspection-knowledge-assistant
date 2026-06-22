@@ -1,0 +1,6 @@
+Inspection Report: Residential Building - Facade Cracking
+Location: Urban residential block
+Observation: Multiple vertical cracks observed on external concrete facade panels.
+Possible causes: Thermal movement, insufficient expansion joints, local concrete shrinkage.
+Risk level: Medium
+Recommended action: Monitor crack width, inspect water ingress, review facade joint detailing.

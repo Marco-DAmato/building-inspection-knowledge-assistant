@@ -1,0 +1,6 @@
+Inspection Report: Apartment Balcony - Structural Defect
+Location: Cantilevered concrete balcony
+Observation: Cracks at balcony slab connection and signs of corrosion staining.
+Possible causes: Water penetration, reinforcement corrosion, insufficient concrete cover.
+Risk level: High
+Recommended action: Restrict access, inspect reinforcement, assess structural capacity.

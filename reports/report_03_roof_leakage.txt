@@ -1,0 +1,6 @@
+Inspection Report: Commercial Roof - Leakage
+Location: Flat roof of office building
+Observation: Moisture marks on ceiling below roof slab after rainfall.
+Possible causes: Damaged roof membrane, poor flashing around penetrations, insufficient slope.
+Risk level: Medium
+Recommended action: Inspect roof membrane, test drainage, repair flashing details.

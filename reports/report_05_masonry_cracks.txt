@@ -1,0 +1,6 @@
+Inspection Report: Historic Masonry Wall - Cracking
+Location: Load-bearing masonry wall
+Observation: Diagonal cracking near window openings and mortar deterioration.
+Possible causes: Foundation settlement, moisture ingress, ageing mortar joints.
+Risk level: Medium
+Recommended action: Monitor movement, inspect foundations, repoint deteriorated mortar.

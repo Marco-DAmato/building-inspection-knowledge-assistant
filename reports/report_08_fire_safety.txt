@@ -1,0 +1,6 @@
+Inspection Report: Public Building - Fire Safety Non-Compliance
+Location: Multi-storey public facility
+Observation: Fire doors not self-closing and escape route partially obstructed.
+Possible causes: Poor maintenance, lack of periodic inspection, operational misuse.
+Risk level: High
+Recommended action: Repair door closers, clear escape routes, implement maintenance checklist.

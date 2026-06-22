@@ -1,0 +1,6 @@
+Inspection Report: Office Building - HVAC Condensation
+Location: Mechanical plant room
+Observation: Condensation around ductwork and water dripping near ceiling void.
+Possible causes: Poor insulation, thermal bridging, inadequate vapour barrier.
+Risk level: Low
+Recommended action: Improve insulation, check vapour barrier, review ventilation conditions.

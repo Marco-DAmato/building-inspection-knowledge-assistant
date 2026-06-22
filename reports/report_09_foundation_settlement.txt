@@ -1,0 +1,6 @@
+Inspection Report: Industrial Building - Foundation Settlement
+Location: Warehouse structure
+Observation: Uneven floor levels and cracking at column bases.
+Possible causes: Differential settlement, poor soil compaction, drainage problems.
+Risk level: High
+Recommended action: Conduct geotechnical survey, monitor settlement, improve site drainage.

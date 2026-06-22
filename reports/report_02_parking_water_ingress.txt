@@ -1,0 +1,6 @@
+Inspection Report: Underground Parking - Water Infiltration
+Location: Basement parking structure
+Observation: Water stains and active seepage detected along retaining wall.
+Possible causes: Failed waterproofing membrane, blocked drainage system, hydrostatic pressure.
+Risk level: High
+Recommended action: Check drainage outlets, perform moisture mapping, inspect membrane condition.

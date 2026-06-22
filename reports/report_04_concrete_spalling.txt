@@ -1,0 +1,6 @@
+Inspection Report: Bridge Structure - Concrete Spalling
+Location: Reinforced concrete bridge deck
+Observation: Spalling concrete with exposed reinforcement in several areas.
+Possible causes: Chloride ingress, corrosion of reinforcement, freeze-thaw damage.
+Risk level: High
+Recommended action: Test chloride levels, assess reinforcement loss, repair damaged concrete.
